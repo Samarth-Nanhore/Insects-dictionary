@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bangers&family=Josefin+Sans&family=Montserrat&family=Open+Sans&display=swap");
+
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+input {
+  height: 5vh;
+  width: 60%;
+  padding: 1rem;
+}
+.output {
+  padding: rem;
+}
