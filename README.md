@@ -1,5 +1,5 @@
 <h1> markEight: Insects-dictionary</h1>
-<h2>site link: https://bzusvd.csb.app/</h2>
+<h2>site link: https://d2wrni.csb.app/</h2>
 
 ####Tech Stack:
 
